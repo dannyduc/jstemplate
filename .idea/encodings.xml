@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" useUTFGuessing="true" native2AsciiForPropertiesFiles="false">
+    <file url="file://$USER_HOME$/projects/ing/ims_component" charset="UTF-8" />
+    <file url="file://$USER_HOME$/projects/ing/ims_component/distribution/ims" charset="UTF-8" />
+    <file url="file://$USER_HOME$/projects/ing/ims_component/distribution/ims_fitnesse" charset="UTF-8" />
+    <file url="file://$USER_HOME$/projects/ing/ims_component/distribution/imsdb" charset="UTF-8" />
+    <file url="file://$USER_HOME$/projects/ing/ims_component/ims/ims" charset="UTF-8" />
+    <file url="file://$USER_HOME$/projects/ing/ims_component/ims/ims-db" charset="UTF-8" />
+    <file url="file://$USER_HOME$/projects/ing/ims_component/ims/ims-fit" charset="UTF-8" />
+    <file url="file://$USER_HOME$/projects/ing/ims_component/ingsecurity/ingsecurity" charset="UTF-8" />
+    <file url="file://$USER_HOME$/projects/ing/ims_component/inguser/inguser" charset="UTF-8" />
+    <file url="file://$USER_HOME$/projects/ing/ims_component/inguser/inguser-api" charset="UTF-8" />
+  </component>
+</project>
+
